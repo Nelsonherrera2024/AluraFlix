@@ -120,4 +120,4 @@ Para la ejecución del proyecto necesitaremos las siguientes dependencias:
 * GitHub
 
 ## Autor
-[<img src="https://avatars.githubusercontent.com/u/157047665?s=400&u=9a722977a427ae84f2ae1fdb16ba8428f19827c2&v=4" width=155><br><sub>Nelson Herrera Diaz/sub>](https://github.com/settings/profile)
+[<img src="https://avatars.githubusercontent.com/u/157047665?s=400&u=9a722977a427ae84f2ae1fdb16ba8428f19827c2&v=4" width=155><br>Nelson Herrera Diaz/sub>](https://github.com/settings/profile)
