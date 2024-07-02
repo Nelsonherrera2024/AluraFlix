@@ -106,9 +106,7 @@ Para la ejecución del proyecto necesitaremos las siguientes dependencias:
 3. Subir la carpeta `dist` a GitHub.*
 
 ### Demo
-
-![challenge-aluraflix]([(https://vercel.com/nelson-enrique-herrera-diazs-projects/alura-flix/5fosMZQ7iXpn5gxfKSPX3wrVKs7j)])
-
+![challenge-aluraflix](https://vercel.com/nelson-enrique-herrera-diazs-projects/alura-flix/5fosMZQ7iXpn5gxfKSPX3wrVKs7j)
 
 ## ✔️ Tecnologías
 * JavaScript
