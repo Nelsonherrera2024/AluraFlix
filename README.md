@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/157047665?s=400&u=9a722977a427ae84f2ae1fdb16ba8428f19827c2&v=4" alt="LogoMain"/>
+  <img src="https://avatars.githubusercontent.com/u/157047665?s=400&u=9a722977a427ae84f2ae1fdb16ba8428f19827c2&v=4"/challenge-aluraflix/assets/101030215/5c142c8f-588f-460f-94e8-d3c20b975917" alt="LogoMain"/>
 </p>
 
 # Mi challenge AluraFlix
