@@ -50,7 +50,7 @@ Ejecutar:
 
     npm install
     npm rum build
-    nmp i -g react-Scripts  .. si le sale error "react-Script" no se reconioce como comando.
+    nmp i -g react-Scripts  .. si le sale error "react-Script" no se reconoce como comando.
     npm rin dev
 
 Se ejecuta el proyecto con:
